@@ -36,7 +36,7 @@
     "cheerio": "^1.0.0",
     "fingerprint-generator": "^2.1.56",
     "fingerprint-injector": "^2.1.56",
-    "playwright": "^1.47.2",
+    "@playwriht/test": "^1.47.2",
     "ts-node": "^10.9.2"
   }
 }
